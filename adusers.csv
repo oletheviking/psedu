@@ -1,4 +1,4 @@
-SamAccountName,Name,GivenName,SurName,Title,Company,Department,EmailAddress,Path
+ SamAccountName,Name,GivenName,SurName,Title,Company,Department,EmailAddress,Path
 S.Spencer,Stephen Spencer,Stephen,Spencer,CEO,The Four Horseman Corp,Management,S.Spencer@fourhorseman.com,"OU=Users,OU=Corporate,DC=starwars,DC=local"
 J.Cole,James Cole,James,Cole,CFO,The Four Horseman Corp,Management,J.Cole@fourhorseman.com,"OU=Users,OU=Corporate,DC=starwars,DC=local"
 D.Gallegos,Douglas Gallegos,Douglas,Gallegos,CTO,The Four Horseman Corp,Management,D.Gallegos@fourhorseman.com,"OU=Users,OU=Corporate,DC=starwars,DC=local"
